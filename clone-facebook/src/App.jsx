@@ -9,7 +9,7 @@ function App() {
     <>
 
       <h1>Clone Facebook</h1>
-      <p>fiuba</p>
+
     </>
   )
 }
